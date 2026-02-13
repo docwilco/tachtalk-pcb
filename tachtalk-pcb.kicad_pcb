@@ -977,7 +977,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Testpoint"
 			(at 0 2.05 0)
 			(layer "F.Fab")
 			(uuid "041b855d-aed7-4a0a-a483-cd3d2fc23656")
@@ -1018,7 +1018,7 @@
 		(path "/e0c5a4ba-7197-476a-9237-5414249be347")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.21 -1.21)
 			(end 1.21 -1.21)
@@ -1974,7 +1974,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Testpoint"
 			(at 0 2.05 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2016,7 +2016,7 @@
 		(path "/338d4890-46bb-4e3f-ae43-1505f42e511a")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.21 -1.21)
 			(end 1.21 -1.21)
@@ -2125,7 +2125,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Testpoint"
 			(at 0 2.05 0)
 			(layer "F.Fab")
 			(uuid "7b8fdf39-46aa-44fc-b240-f14586f594e0")
@@ -2166,7 +2166,7 @@
 		(path "/61564245-f7de-410a-9f51-a9c16a5a50a5")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.21 -1.21)
 			(end 1.21 -1.21)
@@ -2275,7 +2275,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Testpoint"
 			(at 0 2.05 0)
 			(layer "F.Fab")
 			(uuid "3ca73a6c-8804-4ebd-a178-d4a95ab63326")
@@ -2316,7 +2316,7 @@
 		(path "/0166c3a7-ed2d-4108-892d-fd2e4324477a")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.21 -1.21)
 			(end 1.21 -1.21)
@@ -2425,7 +2425,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "330"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2461,7 +2461,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17513"
+		(property "LCSC Part #" "C17630"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2738,7 +2738,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Testpoint"
 			(at 0 2.05 0)
 			(layer "F.Fab")
 			(uuid "d05212c0-c11a-43be-9fc1-d98d8e9e4b7d")
@@ -2779,7 +2779,7 @@
 		(path "/dcd27ee1-d238-4af7-8f21-6b77cc02f9e9")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.21 -1.21)
 			(end 1.21 -1.21)
@@ -3672,7 +3672,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Testpoint"
 			(at 0 2.05 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3714,7 +3714,7 @@
 		(path "/df9ef03d-f6c1-4706-94af-86ca4a8103f3")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.21 -1.21)
 			(end 1.21 -1.21)
@@ -3865,7 +3865,7 @@
 		(path "/9131268a-8e4b-4bba-8bd2-2da4e7251eff")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.96 -0.96)
 			(end 0.96 -0.96)
@@ -4644,10 +4644,9 @@
 				)
 			)
 		)
-		(property "Value" "1k"
-			(at 0 1.65 0)
-			(layer "F.Fab")
-			(hide yes)
+		(property "Value" "100"
+			(at 1 -1.75 0)
+			(layer "F.SilkS")
 			(uuid "e40775ea-af7a-4dfc-967f-3fbca06ad29d")
 			(effects
 				(font
@@ -4680,7 +4679,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17513"
+		(property "LCSC Part #" "C17408"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4801,7 +4800,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2x330"
 			(at 0 1.65 0)
 			(layer "F.SilkS")
 			(uuid "ca613d71-d571-457e-9d69-723bb383c8ca")
@@ -4836,7 +4835,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17513"
+		(property "LCSC Part #" "C17630"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6974,7 +6973,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Testpoint"
 			(at 0 2.05 0)
 			(layer "F.Fab")
 			(uuid "149b297f-1b05-49ee-a861-2191bfd6d670")
@@ -7015,7 +7014,7 @@
 		(path "/f6b17fb0-d277-41cb-b857-5eaeeb451341")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.21 -1.21)
 			(end 1.21 -1.21)
@@ -7166,7 +7165,7 @@
 		(path "/a8197688-d885-47cf-80f7-f0c03bda7dcb")
 		(sheetname "/")
 		(sheetfile "tachtalk-pcb.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.96 -0.96)
 			(end 0.96 -0.96)
@@ -7607,6 +7606,19 @@
 			)
 		)
 		(fp_text user "GND"
+			(at 22.86 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "503d4e0b-f5e0-47df-9236-6101d1a1055b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(fp_text user "GND"
 			(at 1.52032 53.33728 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -7855,19 +7867,6 @@
 		)
 		(fp_text user "GND"
 			(at 22.86 53.34 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "c709e7cb-5bba-4905-9733-d01660dc9467")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(fp_text user "GND"
-			(at 22.86 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c709e7cb-5bba-4905-9733-d01660dc9467")
