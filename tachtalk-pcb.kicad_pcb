@@ -2426,14 +2426,13 @@
 			)
 		)
 		(property "Value" "330"
-			(at 0 1.65 0)
-			(layer "F.Fab")
-			(hide yes)
+			(at 0.25 1.25 0)
+			(layer "F.SilkS")
 			(uuid "83590c6e-1e9e-453c-b3ff-72712f83906c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -4800,7 +4799,7 @@
 				)
 			)
 		)
-		(property "Value" "2x330"
+		(property "Value" "330"
 			(at 0 1.65 0)
 			(layer "F.SilkS")
 			(uuid "ca613d71-d571-457e-9d69-723bb383c8ca")
